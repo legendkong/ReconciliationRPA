@@ -1,6 +1,9 @@
 # Reconciliation RPA
 An RPA to improve the reconciliation process of ensuring that the balances in two accounts tally
 
+## Wait... what is an RPA?
+Robotic process automation (RPA) is a software technology that makes it easy to build, deploy, and manage software robots that emulate humans actions interacting with digital systems and software. Just like people, software robots can do things like understand what’s on a screen, complete the right keystrokes, navigate systems, identify and extract data, and perform a wide range of defined actions. But software robots can do it faster and more consistently than people, without the need to get up and stretch or take a coffee break.
+
 ## What is the Reconciliation Process?
  1. It is a common process that is carried out in accounting firms/by accountants <br>
  2. Process of ensuring that the balances of two accounts tally <br>
@@ -25,6 +28,7 @@ The accountant will have to manually carry out a few tasks <br>
 <li> By automating the process, many of these above problems can be eliminated
 <li> Man hours are freed up and employees can utilise their time more efficiently
 <li> Accuracy of reports greatly increased - robots do not make errors when carrying out calculations
+ 
 
  
  # Building the Workflow 
