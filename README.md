@@ -25,3 +25,9 @@ The accountant will have to manually carry out a few tasks <br>
 <li> By automating the process, many of these above problems can be eliminated
 <li> Man hours are freed up and employees can utilise their time more efficiently
 <li> Accuracy of reports greatly increased - robots do not make errors when carrying out calculations
+
+ 
+ # Building the Workflow 
+ A Step-by-step process for building the RPA workflow
+ 
+ 
